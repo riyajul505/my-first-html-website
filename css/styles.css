@@ -1,0 +1,152 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+  color: #40514e;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Marck Script', cursive;
+  font-weight: bold;
+  font-size:562.5%;
+  color: #66bfbf;
+
+
+  /*
+  margin: 0;
+  width:10%;
+  margin: 0 auto 0 auto; */
+}
+p{
+  line-height: 2;
+}
+hr{
+  border: dotted;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+  border-color: #eaf6f6;
+  border-width: 6px;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.middle-container{
+  margin: 100px 0;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+p{
+  font-size: 20px;
+}
+.hello{
+  font-style: normal;
+}
+h2{
+  font-style: normal;
+  font-size: 2.5rem;
+  color: #66bfbf;
+  font-weight: normal;
+}
+h3{
+  color: #11999e;
+}
+a{
+  color: #11999e;
+  font-family:auto;
+  margin: 10px 10px;
+  text-decoration: none;
+}
+a:hover{
+  color: #eaf6f6;
+}
+
+.top-div {
+  /*background-color: #08d9d6;*/
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+/*
+.middle-div {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
+
+.bottom-div {
+  background-color: blue;
+  width: 200px;
+  height: 200px
+}*/
+.top-cloud{
+  position: absolute;
+  right: 420px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+left: 500px;
+bottom: 300px;
+
+}
+.profilepic{
+  height:300px;
+  width: 300px;
+}
+.profile{
+  padding: 20px;
+}
+.skills-second-image{
+  width: 25%;
+  float: right;
+  margin-left:30px;
+}
+.skills-first-image{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.last-intro{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.btn{
+  font-family: 'Marck Script', cursive;
+  color: #FFFFFF;
+  font-size: 25px;
+  border-radius: 8px;
+  background-color: #11CDD4;
+
+
+  border: #11cdd4 ;
+  border: 1px;
+  text-decoration: none;
+  display: inline-block;
+  text-align: center;
+  font-weight: 100;
+
+}
+.btn:hover{
+  border-radius: 8px;
+   text-decoration: none;
+border: solid #337FED 1px;
+   background: #30E3CB;
+color: black;
+}
+.bottom-container{
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+}
+.copyright{
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
